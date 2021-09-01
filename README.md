@@ -4,10 +4,20 @@
 
 
 ### We have successfully conducted
-More than 20 workshops.
-More than 8 Reach & Teach
-RGIT RECURSION Hackathon since 2019
-CODERTINE - All INDIA CODING CONTEST since 2020
+More than 20 workshops   
+
+More than 8 Reach & Teach    
+
+RGIT RECURSION Hackathon since 2019   
+
+CODERTINE - All INDIA CODING CONTEST since 2020   
+
+
+#### For Any Query feel free to reach us at 
+rgitcodecell@gmail.com
+
+#### For more Details please visit our website..   
+www.rgitcodecell.in
 
 
 
