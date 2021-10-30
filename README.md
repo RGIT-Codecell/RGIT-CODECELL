@@ -10,7 +10,11 @@ More than 8 Reach & Teach
 
 RGIT RECURSION Hackathon since 2019   
 
-CODERTINE - All INDIA CODING CONTEST since 2020   
+CODERTINE - All INDIA CODING CONTEST since 2020
+
+Upcoming Events to look up for
+
+Codertine 2.0 13/11/21
 
 
 #### For Any Query feel free to reach us at 
